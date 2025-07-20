@@ -23,9 +23,8 @@
     "url": "https://github.com/themesberg/volt-react-dashboard"
   },
   "version": "1.0.1",
-  "version": "1.0.1",
 "engines": {
-  "node": "16"
+  "node": "16.x"
 },
  "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
